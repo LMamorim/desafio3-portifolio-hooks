@@ -1,0 +1,23 @@
+.footer {
+    margin-top: 60px;
+    margin-bottom: 25px;
+    margin-left: 30%;
+    margin-right: 35%;
+}
+
+.footer ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.footer a{
+    color: black !important;
+}
+.footer p{
+    margin-top: 3em;
+    justify-content: space-between;
+}
+
+
+

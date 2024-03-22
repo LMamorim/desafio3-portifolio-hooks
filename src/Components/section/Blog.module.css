@@ -1,0 +1,21 @@
+.blog {
+    background-color: rgb(237, 247, 250, 1);
+    padding-bottom: 3em;
+    height: 100vh;
+}
+
+.blog h1 {
+    text-align: left;
+    margin-left: 10%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.blog section {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2em;
+}
+
